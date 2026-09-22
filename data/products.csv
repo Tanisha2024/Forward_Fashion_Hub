@@ -1,0 +1,71 @@
+product_id,name,category,description,price,color,size,material,occasion,style
+P001,"Classic White Cotton Shirt","Shirt","Classic regular-fit cotton shirt suitable for everyday wear, college and casual outings.",1299,"White","S|M|L|XL","Cotton","Casual|College","Minimal"
+P002,"Black Oversized Hoodie","Hoodie","Comfortable oversized hoodie with a relaxed fit and soft fabric, ideal for casual streetwear outfits.",1799,"Black","S|M|L|XL","Cotton Blend","Casual|College","Streetwear"
+P003,"Blue Straight Fit Jeans","Jeans","Classic blue straight-fit jeans suitable for everyday outfits and casual occasions.",1899,"Blue","28|30|32|34|36","Cotton Denim","Casual|College","Classic"
+P004,"Beige Wide Leg Trousers","Trousers","Relaxed wide-leg trousers that work well for smart casual outfits and everyday wear.",1699,"Beige","S|M|L|XL","Polyester Blend","Casual|Office","Smart Casual"
+P005,"Floral Summer Dress","Dress","Lightweight floral dress designed for warm weather, vacations and relaxed outings.",1999,"Floral","S|M|L|XL","Rayon","Summer|Vacation","Feminine"
+P006,"Black Slim Fit T-Shirt","T-Shirt","Simple black slim-fit t-shirt that can be paired with jeans or trousers for everyday outfits.",799,"Black","S|M|L|XL","Cotton","Casual|College","Minimal"
+P007,"Light Blue Denim Jacket","Jacket","Classic light blue denim jacket that adds a casual layer to everyday outfits.",2199,"Light Blue","S|M|L|XL","Denim","Casual|College","Streetwear"
+P008,"Beige Linen Shirt","Shirt","Breathable linen shirt designed for warm weather and relaxed summer outfits.",1599,"Beige","S|M|L|XL","Linen","Summer|Vacation","Minimal"
+P009,"Black Straight Fit Trousers","Trousers","Clean straight-fit black trousers suitable for office, formal and smart casual outfits.",1799,"Black","S|M|L|XL","Polyester Blend","Office|Formal","Formal"
+P010,"Pink Ribbed Top","Top","Feminine ribbed top with a comfortable fit suitable for casual outings and date looks.",999,"Pink","S|M|L|XL","Cotton Blend","Casual|Date","Feminine"
+P011,"White Casual Sneakers","Shoes","Minimal white sneakers designed to work with jeans, dresses and casual outfits.",1499,"White","6|7|8|9|10","Synthetic Leather","Casual|College","Minimal"
+P012,"Brown Casual Loafers","Shoes","Classic brown loafers suitable for smart casual and office outfits.",1899,"Brown","6|7|8|9|10","Faux Leather","Office|Formal","Classic"
+P013,"Olive Cargo Pants","Pants","Relaxed olive cargo pants with multiple pockets, suitable for comfortable streetwear outfits.",1799,"Olive","S|M|L|XL","Cotton","Casual|College","Streetwear"
+P014,"Navy Blue Polo T-Shirt","Polo","Classic navy polo shirt with a clean design suitable for casual and smart casual occasions.",1199,"Navy Blue","S|M|L|XL","Cotton","Casual|Office","Smart Casual"
+P015,"Red Party Dress","Dress","Elegant red dress designed for parties, celebrations and evening occasions.",2499,"Red","S|M|L|XL","Polyester","Party|Date","Partywear"
+P016,"Cream Knit Sweater","Sweater","Soft cream-colored knit sweater designed for comfortable winter and casual outfits.",1999,"Cream","S|M|L|XL","Acrylic Blend","Winter|Casual","Minimal"
+P017,"Dark Blue Skinny Jeans","Jeans","Dark blue skinny-fit jeans suitable for casual outings and evening looks.",1899,"Dark Blue","28|30|32|34|36","Stretch Denim","Casual|Date","Modern"
+P018,"Green Oversized T-Shirt","T-Shirt","Relaxed green oversized t-shirt designed for comfortable streetwear and college outfits.",899,"Green","S|M|L|XL","Cotton","Casual|College","Streetwear"
+P019,"Black Blazer","Blazer","Structured black blazer suitable for formal events, interviews and professional occasions.",2999,"Black","S|M|L|XL","Polyester","Formal|Office","Formal"
+P020,"Lavender Casual Skirt","Skirt","Comfortable lavender skirt that can be paired with tops for feminine casual outfits.",1499,"Lavender","S|M|L|XL","Cotton Blend","Casual|Date","Feminine"
+P021,Black Party Heels,Heels,Elegant black strappy heels for party and evening outfits,2299,Black,6|7|8|9|10,Synthetic,Party|Date,Partywear
+P022,Silver Strappy Heels,Heels,Shimmering silver strappy heels for parties and special occasions,2499,Silver,6|7|8|9|10,Synthetic,Party|Date,Partywear
+P023,Nude Block Heels,Heels,Comfortable nude block heels for parties and formal occasions,2199,Nude,6|7|8|9|10,Faux Leather,Party|Formal,Classic
+P024,Black Ankle Boots,Boots,Classic black ankle boots for modern casual and party looks,2399,Black,6|7|8|9|10,Faux Leather,Party|Casual,Modern
+P025,White Platform Sneakers,Shoes,Chunky white platform sneakers for trendy casual outfits,1999,White,6|7|8|9|10,Synthetic,Casual|College,Streetwear
+P026,Beige Flat Sandals,Sandals,Lightweight beige flat sandals for summer and vacation outfits,999,Beige,6|7|8|9|10,Synthetic,Summer|Vacation,Minimal
+P027,Black Formal Pumps,Heels,Classic black pumps designed for office and formal outfits,2299,Black,6|7|8|9|10,Faux Leather,Office|Formal,Formal
+P028,Tan Casual Sandals,Sandals,Comfortable tan sandals for relaxed summer looks,899,Tan,6|7|8|9|10,Faux Leather,Casual|Summer,Minimal
+P029,Blue Denim Shirt,Shirt,Relaxed blue denim shirt for casual and college outfits,1499,Blue,S|M|L|XL,Denim,Casual|College,Streetwear
+P030,Black Satin Shirt,Shirt,Sleek black satin shirt for evening and date outfits,1799,Black,S|M|L|XL,Satin,Date|Party,Modern
+P031,Pink Oversized Shirt,Shirt,Relaxed pink oversized shirt for casual everyday styling,1399,Pink,S|M|L|XL,Cotton,Casual|College,Feminine
+P032,White Oversized Shirt,Shirt,Relaxed white oversized cotton shirt for casual and college looks,1299,White,S|M|L|XL,Cotton,Casual|College,Minimal
+P033,Green Linen Shirt,Shirt,Breathable green linen shirt for warm weather and vacation outfits,1699,Green,S|M|L|XL,Linen,Summer|Vacation,Minimal
+P034,Checked Casual Shirt,Shirt,Classic checked shirt for everyday casual and college outfits,1299,Multicolor,S|M|L|XL,Cotton,Casual|College,Classic
+P035,Black Crop Top,Top,Minimal black crop top for casual and date looks,899,Black,S|M|L|XL,Cotton,Casual|Date,Modern
+P036,White Ribbed Tank Top,Top,Simple white ribbed tank top for summer and casual outfits,699,White,S|M|L|XL,Ribbed Knit,Casual|Summer,Minimal
+P037,Lavender Knit Top,Top,Soft lavender knit top for feminine casual and date outfits,1199,Lavender,S|M|L|XL,Knit,Casual|Date,Feminine
+P038,Red Satin Top,Top,Elegant red satin top for party and date outfits,1499,Red,S|M|L|XL,Satin,Party|Date,Partywear
+P039,Beige Ribbed Top,Top,Neutral beige ribbed top for minimal everyday styling,999,Beige,S|M|L|XL,Ribbed Knit,Casual|College,Minimal
+P040,Navy Blue Crop Top,Top,Fitted navy blue crop top for casual and date occasions,899,Navy Blue,S|M|L|XL,Cotton,Casual|Date,Modern
+P041,Black Cargo Pants,Pants,Relaxed black cargo pants with a streetwear-inspired fit,1899,Black,28|30|32|34|36,Cotton,Casual|College,Streetwear
+P042,Beige Cargo Pants,Pants,Comfortable beige cargo pants for casual everyday outfits,1799,Beige,28|30|32|34|36,Cotton,Casual|College,Streetwear
+P043,White Wide Leg Pants,Pants,Flowy white wide leg pants for summer and vacation looks,1699,White,28|30|32|34|36,Cotton,Summer|Vacation,Feminine
+P044,Black Wide Leg Pants,Pants,Modern black wide leg pants for office and formal styling,1899,Black,28|30|32|34|36,Polyester Blend,Office|Formal,Formal
+P045,Blue Mom Jeans,Jeans,Relaxed blue mom jeans for casual and college outfits,1799,Blue,28|30|32|34|36,Denim,Casual|College,Modern
+P046,Light Blue Mom Jeans,Jeans,Light blue relaxed-fit mom jeans for casual summer styling,1799,Light Blue,28|30|32|34|36,Denim,Casual|Summer,Modern
+P047,Black Denim Skirt,Skirt,Classic black denim skirt for casual and date outfits,1399,Black,S|M|L|XL,Denim,Casual|Date,Modern
+P048,Pleated Beige Skirt,Skirt,Flowy pleated beige skirt for feminine casual and date looks,1599,Beige,S|M|L|XL,Polyester,Casual|Date,Feminine
+P049,Floral Midi Skirt,Skirt,Floral midi skirt for summer and vacation outfits,1699,Floral,S|M|L|XL,Rayon,Summer|Vacation,Feminine
+P050,Black Bodycon Dress,Dress,Fitted black bodycon dress for parties and date nights,2299,Black,S|M|L|XL,Polyester,Party|Date,Partywear
+P051,Blue Midi Dress,Dress,Elegant blue midi dress for casual and date occasions,1999,Blue,S|M|L|XL,Rayon,Casual|Date,Feminine
+P052,Beige Maxi Dress,Dress,Flowy beige maxi dress for summer and vacation occasions,2199,Beige,S|M|L|XL,Rayon,Summer|Vacation,Feminine
+P053,Black Formal Dress,Dress,Simple black formal dress for office and formal occasions,2699,Black,S|M|L|XL,Polyester,Office|Formal,Formal
+P054,Lavender Party Dress,Dress,Elegant lavender party dress for celebrations and evening events,2799,Lavender,S|M|L|XL,Polyester,Party|Date,Partywear
+P055,Green Summer Dress,Dress,Lightweight green summer dress for relaxed warm-weather occasions,1799,Green,S|M|L|XL,Cotton,Summer|Vacation,Feminine
+P056,Cream Cardigan,Jacket,Soft cream cardigan for winter and casual layering,1899,Cream,S|M|L|XL,Acrylic,Winter|Casual,Minimal
+P057,Black Bomber Jacket,Jacket,Modern black bomber jacket for casual and college streetwear,2499,Black,S|M|L|XL,Polyester,Casual|College,Streetwear
+P058,Brown Faux Leather Jacket,Jacket,Brown faux leather jacket for modern casual and date outfits,2799,Brown,S|M|L|XL,Faux Leather,Casual|Date,Modern
+P059,Beige Trench Coat,Jacket,Classic beige trench coat for formal and office styling,3299,Beige,S|M|L|XL,Polyester,Formal|Office,Classic
+P060,Navy Blue Blazer,Blazer,Structured navy blue blazer for office and formal outfits,2999,Navy Blue,S|M|L|XL,Polyester Blend,Office|Formal,Formal
+P061,Gray Oversized Hoodie,Hoodie,Comfortable gray oversized hoodie for casual college streetwear,1699,Gray,S|M|L|XL,Cotton Blend,Casual|College,Streetwear
+P062,Cream Oversized Hoodie,Hoodie,Soft cream oversized hoodie for relaxed casual outfits,1799,Cream,S|M|L|XL,Cotton Blend,Casual|College,Minimal
+P063,Maroon Knit Sweater,Sweater,Warm maroon knit sweater for winter casual styling,1999,Maroon,S|M|L|XL,Acrylic,Winter|Casual,Modern
+P064,Beige Knit Sweater,Sweater,Classic beige knit sweater for winter and casual outfits,1899,Beige,S|M|L|XL,Acrylic,Winter|Casual,Minimal
+P065,Black Polo T-Shirt,Polo,Classic black polo shirt for casual and office-ready outfits,1199,Black,S|M|L|XL,Cotton,Casual|Office,Smart Casual
+P066,White Polo T-Shirt,Polo,Clean white polo shirt for casual and office occasions,1199,White,S|M|L|XL,Cotton,Casual|Office,Smart Casual
+P067,Red Casual Sneakers,Shoes,Bold red sneakers for modern casual and college outfits,1599,Red,6|7|8|9|10,Synthetic,Casual|College,Modern
+P068,Black Chelsea Boots,Boots,Classic black Chelsea boots for formal and modern outfits,2599,Black,6|7|8|9|10,Faux Leather,Formal|Date,Classic
+P069,Silver Party Sandals,Sandals,Shimmering silver sandals for parties and special occasions,1899,Silver,6|7|8|9|10,Synthetic,Party|Date,Partywear
+P070,Gold Strappy Heels,Heels,Statement gold strappy heels for parties and celebrations,2699,Gold,6|7|8|9|10,Synthetic,Party|Date,Partywear
